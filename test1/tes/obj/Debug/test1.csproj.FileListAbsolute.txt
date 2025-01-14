@@ -1,0 +1,16 @@
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\test1.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\test1.pdb
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\Microsoft.Analytics.Interfaces.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\Microsoft.Analytics.Types.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\Microsoft.Analytics.UnitTest.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\pz1.exe
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\pz1.pdb
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\pz1.exe.config
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\obj\Debug\test1.csproj.AssemblyReference.cache
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\obj\Debug\test1.csproj.CoreCompileInputs.cache
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\obj\Debug\test1.csproj.Up2Date
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\obj\Debug\test1.dll
+E:\4 курс\МДК 01.02 Поддержка и тестирование программных модулей\tes\obj\Debug\test1.pdb
