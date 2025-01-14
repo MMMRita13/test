@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uqq0jE6Vz2I=",
+  "success": true,
+  "projectFilePath": "E:\\4 курс\\МДК 01.02 Поддержка и тестирование программных модулей\\test1\\test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Маргарита\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\microsoft.net.test.sdk\\16.2.0\\microsoft.net.test.sdk.16.2.0.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\mstest.analyzers\\3.7.1\\mstest.analyzers.3.7.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\mstest.testframework\\3.7.1\\mstest.testframework.3.7.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\Маргарита\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.1\\xunit.runner.visualstudio.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
